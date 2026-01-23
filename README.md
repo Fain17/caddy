@@ -1,6 +1,7 @@
 <p align="center">
 <!-- Test change made on 23 January 2026 -->
 <!-- Automated change: README updated by Copilot on 23 January 2026 -->
+<!-- Additional update: Testing commit workflow -->
 	<a href="https://caddyserver.com">
 		<picture>
 			<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/1128849/210187358-e2c39003-9a5e-4dd5-a783-6deb6483ee72.svg">
